@@ -1,0 +1,10 @@
+tensorflow
+pandas
+numpy
+matplotlib
+jupyter
+notebook
+ipykernel
+scikit_learn
+seaborn
+preprocessing
